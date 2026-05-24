@@ -1,0 +1,11 @@
+Technology           Purpose
+
+Python              -   Core Development
+OpenWeatherMap API  -   Weather Data
+Requests            -   API Calls
+Pandas              -   Data Handling
+Matplotlib          -   Data Visualization
+Schedule            -   Automation
+SMTP                -   Email Alerts
+Tkinter / Streamlit -   GUI (Optional)
+dotenv              -   Secure API Key Storage
