@@ -1,0 +1,20 @@
+weather-forecast-alert-app/
+│
+├── data/
+│   └── weather_history.csv
+│
+├── charts/
+│   └── temperature_chart.png
+│
+├── src/
+│   ├── weather_api.py
+│   ├── alert_system.py
+│   ├── visualization.py
+│   ├── scheduler.py
+│   └── config.py
+│
+├── .env
+├── requirements.txt
+├── main.py
+├── README.md
+└── LICENSE
